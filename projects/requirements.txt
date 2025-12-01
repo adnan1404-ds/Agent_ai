@@ -1,5 +1,0 @@
-langchain
-openai
-gradio
-pandas
-rich
